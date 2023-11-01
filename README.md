@@ -11,5 +11,5 @@ I have choosen the class "Animals" with the following attributes
 - "AnimalColour" (string)
 
 ## Description
-This web server is designed to display search results for Kitchen items.
-User can search kitchen items by the brand, item and price according to their requirement.
+This web server is designed to display search results for Animals.
+User can search Animals by the name, type and colour.

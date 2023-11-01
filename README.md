@@ -5,10 +5,10 @@ Life is full of Miracles and Surprises
 # My Web Server Project
 
 ## Class and Attributes
-I have choosen the class "KitchenItems" with the following attributes
-- "ItemName" (string)
-- "Brand"(string)
-- "Price" (number)
+I have choosen the class "Animals" with the following attributes
+- "AnimalName" (string)
+- "AnimalType"(string)
+- "AnimalColour" (string)
 
 ## Description
 This web server is designed to display search results for Kitchen items.

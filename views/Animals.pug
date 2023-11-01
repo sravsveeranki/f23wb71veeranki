@@ -2,4 +2,12 @@ extends layout
 
 block content
   h1= title
-  
+  .container-fluid
+    .row
+      each Animals in results
+        .col-sm-4
+          .card
+            .card-body
+              h5.card-title AnimalName: #{Animals.AnimalName}
+              p.card-text AnimalType: #{Animals.AnimalType}
+              p.card-text AnimalColour: #{Animals.AnimalColour}
